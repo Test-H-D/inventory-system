@@ -546,7 +546,7 @@
 						</div>
 						<div id="vendorReportsTab" class="container-fluid tab-pane fade">
 							<br>
-							<p>Use the grid below to get reports for Sellers</p>
+							<p>Use the grid below to get reports for Sellers customers</p>
 							<div class="table-responsive" id="vendorReportsTableDiv"></div>
 						</div>
 					</div>
